@@ -138,3 +138,4 @@ Join us in revolutionizing emotional intelligence through AI and blockchain. Tog
 
 ---
 ### **CA**
+Currently in development. Please stay tuned for updates as the team finalizes the token issuance details.
