@@ -108,15 +108,6 @@ To create a global ecosystem where color-driven emotional insights empower indiv
 
 ### **Investment Opportunity**
 
-- **Funding Requirements:**
-  - $5 million for R&D, app development, marketing, and token issuance.
-
-- **Use of Funds:**
-  - 40% Technology Development
-  - 30% Marketing and User Acquisition
-  - 20% Research and Refinement
-  - 10% Operational Costs
-
 - **Investor Benefits:**
   - Equity stake in BlackAI.
   - Priority access to project data and insights.
