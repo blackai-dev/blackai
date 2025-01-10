@@ -129,5 +129,6 @@ Join us in revolutionizing emotional intelligence through AI and blockchain. Tog
 ---
 ### **CA**
 
-CA: 29eFqARqY9AC9wU3ex3tMjjN2rK1CQyyUApkmGrFpump
+**CA: 29eFqARqY9AC9wU3ex3tMjjN2rK1CQyyUApkmGrFpump**
+https://gmgn.ai/sol/token/29eFqARqY9AC9wU3ex3tMjjN2rK1CQyyUApkmGrFpump
 
