@@ -45,7 +45,7 @@ To create a global ecosystem where color-driven emotional insights empower indiv
 ### **Reward Mechanism**
 
 - **Incentive Structure:**
-  - Users earn ET for contributing high-quality emotion data.
+  - Users earn $blackai for contributing high-quality emotion data.
   - Additional rewards for consistent participation and providing feedback that matches the AI model's predictions.
 
 - **Token Utility:**
