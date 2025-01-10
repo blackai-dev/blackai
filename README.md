@@ -1,5 +1,4 @@
-# **BlackAI**
-
+# **BlackAI** https://blackai.carrd.co/
 <div align="center">
   <a href="https://github.com/blackai-dev/blackai">
     <img src="blackai_logo.png" alt="Logo" width="320" height="320">
